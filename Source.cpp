@@ -29,3 +29,4 @@ int main() {
     cout << "b: "; cin >> b;
     cout << "GCD(" << a << ", " << b << ") = " << gcd(a, b) << endl;
 }
+//hi
